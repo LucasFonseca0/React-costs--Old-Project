@@ -1,0 +1,14 @@
+.bnt{
+    background-color: #222;
+    color: #FFF;
+    padding: 0.5em 1em;
+    text-decoration: none;
+    transition: 0.3s;
+    border-radius: 3px;
+    box-shadow: 1px 1px 7px rgba(0, 0, 0, 0.34);
+}
+
+.bnt:hover{
+    color: #FFBB33;
+    cursor: pointer;
+}

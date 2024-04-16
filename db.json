@@ -1,0 +1,84 @@
+{
+  "projects": [
+    {
+      "name": "bsaysa",
+      "budget": "1515",
+      "category": {
+        "id": "1",
+        "name": "infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 1
+    },
+    {
+      "name": "opaa",
+      "budget": "9000",
+      "category": {
+        "id": "3",
+        "name": "disign"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 5
+    },
+    {
+      "name": "oleole",
+      "budget": "11",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 6
+    },
+    {
+      "name": "criar um site",
+      "budget": "515",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 7
+    },
+    {
+      "category": {
+        "id": "3",
+        "name": "disign"
+      },
+      "budget": "9030",
+      "name": "lol",
+      "cost": 220,
+      "services": [
+        {
+          "name": "dificil",
+          "cost": "220",
+          "description": "comida",
+          "id": "7ef1427c-3c5c-4d4d-b02c-14c4738756cc"
+        }
+      ],
+      "id": 8
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "disign"
+    },
+    {
+      "id": 4,
+      "name": "planejamento"
+    }
+  ]
+}
